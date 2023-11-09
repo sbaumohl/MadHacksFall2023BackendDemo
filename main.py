@@ -1,6 +1,5 @@
 from databases import Database
 from fastapi import Depends, FastAPI
-from typing import Union
 
 app = FastAPI()
 
